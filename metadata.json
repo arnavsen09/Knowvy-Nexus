@@ -1,0 +1,7 @@
+{
+  "name": "Knowvy Nexus",
+  "description": "Project-to-team intelligence platform. Understands project requirements, finds complementary community talent, analyzes team capability gaps, and generates actionable execution roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
